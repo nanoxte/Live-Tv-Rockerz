@@ -7,6 +7,7 @@
 - [Report an Issue](https://t.me/+t9rJ42tcRJI2MDFl)
 - [View Source Code](https://github.com/nanoxte/Live-Tv-Rockerz)
 - [Download APK](https://github.com/nanoxte/Live-Tv-Rockerz/blob/apk/ScreenShots/Rockerz%20TV.apk) *(available)*
+- [PC and Laptop web](https://networkmaya.vercel.app) *(available)*
   
 Features
 Live sports streaming (WPL, cricket, etc.)
