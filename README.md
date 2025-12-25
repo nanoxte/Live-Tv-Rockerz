@@ -6,7 +6,7 @@ Live tv Application which supports Android,Android TV , Desktop ....etc
 - [View All Screenshots](https://github.com/nanoxte/Live-Tv-Rockerz/tree/main/ScreenShots)
 - [Report an Issue](https://t.me/+t9rJ42tcRJI2MDFl)
 - [View Source Code](https://github.com/nanoxte/Live-Tv-Rockerz)
-- [Download APK](https://github.com/nanoxte/Live-Tv-Rockerz/releases) *(available)*
+- [Download APK](https://github.com/nanoxte/Live-Tv-Rockerz/blob/apk/ScreenShots/Rockerz%20TV.apk) *(available)*
 - 
 Features
 Live sports streaming (WPL, cricket, etc.)
